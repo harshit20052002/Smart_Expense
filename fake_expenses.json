@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Lunch",
+    "amount": 120,
+    "category": "Food",
+    "date": "2025-11-01"
+  },
+  {
+    "title": "Groceries",
+    "amount": 850,
+    "category": "Home",
+    "date": "2025-11-03"
+  },
+  {
+    "title": "Train Ticket",
+    "amount": 45,
+    "category": "Travel",
+    "date": "2025-11-10"
+  }
+]
